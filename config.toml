@@ -1,0 +1,6 @@
+baseURL = "https://ekocahyo.github.io/"
+languageCode = "id-id"
+defaultContentLanguage = "id"
+copyright = "Copyright (c) 2020, Eko Cahyo; all rights reserved."
+title = "My Blog"
+theme = "alageek"
