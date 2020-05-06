@@ -1,5 +1,5 @@
 author = "Eko Cahyo"
-baseurl = "https://ekocahyo.github.io"
+baseurl = "https://ekocahyo.github.io/"
 canonifyurls = true
 copyright = "Copyright © 2020, Eko Cahyo Authors; all rights reserved."
 paginate = 5
