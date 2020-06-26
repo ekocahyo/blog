@@ -10,6 +10,7 @@ categories = [
 ]
 draft = false
 menu = "main"
+author = "Cahyo"
 +++
 
 ## Hello World!

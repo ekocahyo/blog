@@ -4,15 +4,15 @@ canonifyurls = true
 copyright = "Copyright © 2020, Eko Cahyo Authors; all rights reserved."
 paginate = 5
 theme = "alageek"
-title = "My Blog"
+title = "A Small Note"
 
 [params]
-copyright = "© 2020 by Eko Cahyo"
+copyright = "Created by Cahyo"
 copyrightUrl = "https://ekocahyo.github.io"
 description = "My Blog"
-faviconfile = "https://gokmengorgen.net/img/laughing-man-favicon.png"
-latestpostcount = 5
-logofile = "https://gokmengorgen.net/img/laughing-man.png"
+faviconfile = "cahyo.png"
+latestpostcount = 15
+logofile = "cahyo.png"
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
 toc = true
@@ -26,6 +26,7 @@ telegram = "m_eko_cahyo_s"
 # twitter = "?"
 # mastodon_url = "https://mastodon.url/?"
 email = "ekocahyo27@gmail.com"
+mainSections = ["blog", "how-to"]
 
 # [[params.best_posts]]
 # title = "Migrate to Hugo from Jekyll"
@@ -38,25 +39,37 @@ url = "/blog/"
 weight = 10
 
 [[menu.primary]]
+identifier = "how-to"
+name = "How to"
+url = "/how-to/"
+weight = 20
+
+[[menu.primary]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 20
+weight = 30
 
-# [[menu.secondary]]
-# identifier = "patreon"
-# name = "Become a patron"
-# url = "https://www.patreon.com/bePatron?u=10637849"
-# weight = 110
-# 
-# [[menu.secondary]]
-# identifier = "bmc"
-# name = "Buy me a coffee"
-# url = "https://www.buymeacoffee.com/gokmen"
-# weight = 120
+[[menu.primary]]
+identifier = "resume"
+name = "Resume"
+url = "/resume/"
+weight = 40
 
-[[menu.footer]]
+[[menu.secondary]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 120
+
+[[menu.secondary]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 50
+weight = 110
+
+#[[menu.footer]]
+#identifier = "tags"
+#name = "Tags"
+#url = "/tags/"
+#weight = 50

@@ -4,4 +4,8 @@ date = "2014-04-09"
 menu = "main"
 +++
 
-Selamat datang di blog pribadi saya. Nama saya Eko Cahyo. Blog ini saya bangun dan kembangkan dengan menggunakan platform Hugo. Blog ini saya buat untuk catatan sehari - hari saya. Jadi ketika saya menemukan hal baru yang saya ketahui supaya lebih mudah untuk mengingatnya.
+Hai.
+
+Selamat datang (lagi).
+
+Ini hanya sebagian kecil dari memory saya yang pernah saya ingat dan sering saya lupakan. Saya tidak ada niat untuk cari visitor, adsense, atau pun uang dari sini, jadi jangan berharap lebih dari halaman kecil ini. Saya bukan penulis, saya hanya seorang tukang ketik. Jadi harap dimaklumi kalau tulisan saya banyak yang berantakan. Karena memang tujuan saya menulis ini tidak untuk Anda, tapi untuk catatan saya sendiri supaya ingat tentang apa yang sudah saya lupakan.
