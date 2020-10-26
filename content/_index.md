@@ -1,5 +1,5 @@
 +++
-title = "alaGeek Theme"
+title = "A Small Note"
 date = "2014-04-09"
 menu = "main"
 +++

@@ -53,7 +53,7 @@ weight = 30
 [[menu.primary]]
 identifier = "resume"
 name = "Resume"
-url = "/resume/"
+url = "/cv/"
 weight = 40
 
 [[menu.secondary]]
